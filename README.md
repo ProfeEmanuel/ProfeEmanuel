@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é Emanuel  
-- 👀 Sou Professor do Estado
+- 👀 Sou Professor do Estado do Paraná
 - 🌱 Leciono as disciplinas de matemática, física e pensamento computacional.
 
 
